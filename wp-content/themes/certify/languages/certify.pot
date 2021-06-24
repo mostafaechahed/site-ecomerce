@@ -1,0 +1,572 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Certify\n"
+"POT-Creation-Date: 2021-05-26 12:39-0700\n"
+"PO-Revision-Date: 2018-11-01 19:14+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:73
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:74
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:113
+msgid "View Theme Info"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:123
+#, php-format
+msgid "About %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:124
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:137
+#, php-format
+msgid ""
+"Certify theme is installed. To take full advantage of the features this "
+"theme has to offer visit our %1$s welcome page %2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:138
+msgid "Get started with Certify theme"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:252
+msgid "See changelog below:"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:306
+#: admin/tab-pages/getting-started.php:23
+msgid "Getting Started"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:311
+msgid "Recommended Actions"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:319
+msgid "Support"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:326
+#: admin/tab-pages/useful_plugins.php:28 admin/tab-pages/useful_plugins.php:30
+msgid "Changelog"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:331
+msgid "Free vs. PRO"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:412
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:414
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:431
+#, php-format
+msgid "Activate %s now"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:433
+msgid "Activate"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:436
+msgid "Active"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:559
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:561
+msgid ""
+"To access the advance Frontpage sections and other theme features, please "
+"install the SpiceBox plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:565
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:567
+msgid ""
+"To display the contact form on the contact section in homepage, please "
+"install the Contact Form 7 plugin"
+msgstr ""
+
+#: admin/inc/include-companion.php:79
+msgid ""
+"To take advantage of this theme's features in the customizer you need to "
+"install the SpiceBox plugin."
+msgstr ""
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr ""
+
+#: admin/inc/include-companion.php:96
+msgid ""
+"You have installed the SpiceBox plugin. To take advantage of this theme's "
+"features in the customizer, you need to activate it."
+msgstr ""
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr ""
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "Frontpage Sections"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "Page Templates Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "Our theme includes various page templates."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Layout Options"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid ""
+"Our theme supports both a Full-Width and a Boxed layout options. To choose "
+"your preference, Go to Appearance >> Customize"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:27
+msgid "Header Layouts"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Show different header layouts with logo placing"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "Sticky header"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:33
+msgid "Menu Breakpoint Setting"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:35
+msgid "Container Width Setting"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:36
+msgid "Set the width of the Content Container"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:39
+msgid "Post Navigation Style"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:41
+msgid "Excerpt and Full Content"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:42
+msgid "Show the full content of post or excerpt on blog pages"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:45
+msgid "Colors and Typography Module"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:46
+msgid ""
+"It is a powerful module allows you to adjust the fonts and colors of the "
+"content without adding a single line of css code."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Mulitple Color Schemes"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:49
+msgid ""
+"Enjoy any of the 7 preset color schemes, or create your own, without adding "
+"any code."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:51
+msgid "Google Map"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid ""
+"Display your Shop and Business location on your website using Google Maps."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:54
+msgid "Services Page"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:55
+msgid "Show all your services in a single place."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:57
+msgid "Portfolio"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:58
+msgid ""
+"Present your project/portfolio collection with 2 column, 3 column and 4 "
+"column layouts. You can also display your project/portfolio by category."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:60
+msgid "Testimonial / Review Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:61
+msgid "Show user feedback on the Homepage."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:63
+msgid "Theme Layout Manager"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:64
+msgid "Reorder the Homepage Sections by just drag and drop"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:67
+msgid "Footer Widget Layouts"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:68
+msgid "There are various layouts for the Footer Widgets"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:71
+msgid "Footer Credit"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:73
+msgid "Mobile Friendly"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:74
+msgid "Responsive layout in all devices"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:76
+msgid "Contact Form Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:77
+msgid ""
+"This theme supports the Contact Form 7 plugin. Use it to build your contact "
+"form."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:79
+msgid "RTL Language Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:80
+msgid ""
+"This theme has RTL language support. For languages that start from right to "
+"left like Arabic, Hebrew, etc."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:82
+msgid "WPML Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:83
+msgid "You can use WPML to make your website multilingual."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:85
+msgid "Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:86
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:99
+msgid "Free"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:104
+msgid ""
+"Slider [Static Image], Services [3 Services], Portfolio [3 Portfolio], "
+"Testimonial, Latest News"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:107
+msgid "Business, About, Contact and Full-Width Templates"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:108 admin/tab-pages/free_vs_pro.php:149
+msgid "Wide & Boxed layout"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:109
+msgid "2 Layouts"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:120
+msgid "One testimonial + 1 variation"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:123
+msgid "Not Editable"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:129
+msgid "On WordPress.org Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:141
+msgid "Pro"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:146
+msgid ""
+"Top Header, Slider [Unlimited], Services [Unlimited], Portfolio [Unlimited], "
+"Latest News, Clients, Testimonials, Custom Widgets"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:148
+msgid ""
+"About, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, "
+"Page Full Width, Contact Page and much more."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:150
+msgid "4 Layouts"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:161
+msgid "Unlimited testimonials + 4 variations"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:164
+msgid "Editable"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:169
+msgid "Premium Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:179
+msgid "Get PRO Version Now!"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:12
+msgid "About the Certify theme"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:18
+msgid ""
+"This theme is ideal for creating corporate and business websites. There is "
+"no separate premium version of it, as Certify is a child theme of the "
+"SpicePress WordPress theme. The premium version, SpicePress PRO has tons of "
+"features: a homepage with many sections where you can feature unlimited "
+"slides, portfolios, user reviews, latest news, services, calls to action and "
+"much more. Each section in the Homepage template is carefully designed to "
+"fit to all business requirements."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:20
+msgid ""
+"You can use this theme for any type of activity. Certify is compatible with "
+"popular plugins like WPML and Polylang. To help you create an effective and "
+"impactful web presence, Certify has predefined versions of many pages: "
+"Contact, Services, Portfolios, About Us and Blog."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:27
+msgid ""
+"To take full advantage of all the features this theme has to offer, install "
+"and activate the SpiceBox plugin. Go to Customize and install the SpiceBox "
+"plugin."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:30
+msgid "Go to the Customizer"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:36
+msgid "Certify theme"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:44
+msgid "Useful Links"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:51
+msgid "Lite Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:55
+msgid "PRO Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:66
+msgid "Your feedback is valuable to us"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:69
+msgid "Premium Theme Support"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:79
+msgid "Premium Theme Details"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:12 admin/tab-pages/useful_plugins.php:14
+msgid "Contact Support"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:13
+msgid ""
+"We want to make sure you have the best experience using SpicePress, and that "
+"is why we have gathered all the necessary information here for you. We hope "
+"you will enjoy using SpicePress as much as we enjoy creating great products."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:20
+msgid "Documentation"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid ""
+"Need more details? Please check our full documentation for detailed "
+"information on how to use SpicePress."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:22
+msgid "Read full documentation"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:29
+msgid ""
+"Want to get the gist on the latest theme changes? Just consult our changelog "
+"below to get a taste of the recent fixes and features implemented."
+msgstr ""
+
+#: footer.php:5
+msgid ""
+"Proudly powered by <a href=\"https://wordpress.org\">WordPress</a> | Theme: "
+"<a href=\"https://spicethemes.com\" rel=\"nofollow\">Certify</a> by "
+"SpiceThemes"
+msgstr ""
+
+#: footer.php:25
+msgid "Proudly powered by"
+msgstr ""
+
+#: footer.php:25
+msgid "https://wordpress.org"
+msgstr ""
+
+#: footer.php:25
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:25
+msgid "| Theme:"
+msgstr ""
+
+#: footer.php:25
+msgid "https://spicethemes.com"
+msgstr ""
+
+#: footer.php:25
+msgid "SpicePress"
+msgstr ""
+
+#: footer.php:25
+msgid "by SpiceThemes"
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: header/header-navbar.php:23 header/header-navbar.php:37
+msgid "Toggle navigation"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Certify"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://spicethemes.com/certify-wordpress-theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Certify is a responsive, multi-purpose WordPress theme. It's flexible and "
+"suitable for agencies, agency, blog, business, corporate, finance, account, "
+"consulting or portfolios. Customization is easy and straight-forward, with "
+"options provided that allow you to setup your site to perfectly fit your "
+"desired online presence."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SpiceThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://spicethemes.com/"
+msgstr ""
